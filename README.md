@@ -37,19 +37,19 @@
 
 ### 💬 Let's Connect!
 <p align="center">
-  <a href="{linkedin}" target="_blank">
+  <a href="https://www.linkedin.com/in/irfan-hussain-12b66361/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="{twitter}" target="_blank">
+  <a href="https://x.com/RomaSports38111" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:{gmail}" target="_blank">
+  <a href="mailto:irfanhussain2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
  <a href="https://www.instagram.com/irfanzaidi75/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-  <a href="{youtube}" target="_blank">
+  <a href="https://www.youtube.com/@RomaSportsLive" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="{portfolio}" target="_blank">
