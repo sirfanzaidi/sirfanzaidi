@@ -1,6 +1,11 @@
 
-# Hi 👋, I'm Irfan Zaidi
-## Frontend Developer from Pakistan
+<h1 align="center">Hi 👋, I'm Irfan Zaidi</h1>
+<h3 align="center">Frontend Developer from Pakistan</h3>
+<p align="center">
+  <a href="https://github.com/sirfanzaidi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality;Building+Modern+Web+Apps;Always+Learning+%26+Growing" alt="Typing SVG" />
+  </a>
+</p>
 ---
 ### 🛠️ Tech Stack
 <div class="tech-icons">
@@ -11,9 +16,9 @@
 ---
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirfanzaidi&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirfanzaidi&theme=default&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirfanzaidi&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sirfanzaidi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirfanzaidi&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirfanzaidi&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 ---
 
