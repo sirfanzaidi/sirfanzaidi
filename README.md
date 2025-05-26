@@ -46,7 +46,7 @@
   <a href="mailto:{gmail}" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="{instagram}" target="_blank">
+  <a href="{instagram}" target="https://www.instagram.com/irfanzaidi75/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="{youtube}" target="_blank">
